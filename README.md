@@ -1,3 +1,6 @@
+
+![sc-nametag](https://github.com/FayeVinyl/sc-name-tag-generator/assets/19337086/66c673db-1f80-4d17-8035-2fd7e25944ab)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
